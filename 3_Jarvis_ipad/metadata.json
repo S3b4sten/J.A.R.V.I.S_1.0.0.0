@@ -1,0 +1,9 @@
+
+{
+  "name": "JARVIS AI Interface",
+  "description": "A futuristic, JARVIS-inspired AI interface featuring real-time voice interaction, animated HUD elements, and a high-tech terminal design.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
